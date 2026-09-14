@@ -140,3 +140,5 @@ Free diagnostics should remain genuinely useful. Paid plans should monetize moni
 ## Important limitation
 
 A SELL2AI readiness score is a proprietary heuristic based on signals the scanner can observe. Improving the score does not guarantee recommendation, ranking, discovery or checkout support by any third-party AI platform.
+
+<!-- deployment diagnostic after GitHub repository rename -->
